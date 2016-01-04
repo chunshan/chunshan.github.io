@@ -72,8 +72,21 @@ ______
 图片
 ______
  .. figure:: http://www.mri-q.com/uploads/3/2/7/4/3274160/4670936_orig.gif?355
+    :alt: sample picture
 
-   Simple model of regional circulation
+    Simple model of regional circulation
+
++--------------------------------------------------------------------------+----------------------------------------------------------------------------+
+| .. figure:: http://www.mri-q.com/uploads/3/2/7/4/3274160/5694391_orig.jpg| .. figure::  http://www.mri-q.com/uploads/3/2/7/4/3274160/6193878_orig.gif |
+|    :alt: map to buried treasure                                          |    :alt: map to buried treasure                                            |
+|    :width: 300                                                           |    :width: 300                                                             |
+|                                                                          |                                                                            |
+|    T2加权像，显示胼胝体上的脑肿瘤                                        |    显著升高的BV，高度恶性的成胶质细胞瘤                                    |
++--------------------------------------------------------------------------+----------------------------------------------------------------------------+
+
+.. |PerfusionImage1| image:: http://www.mri-q.com/uploads/3/2/7/4/3274160/__9552085_orig.jpg   
+                     :width: 30%       
+                     :target: 脑动脉自旋标记   
 
 超链接
 ______
